@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Johnathan..
-- 👀 I’m interested in JS, CSS, Html, React | C++ Qt.
+- 👀 I’m interested in JS, CSS, Html, React | C++ Qt | php Wordpress.
 - 🌱 I’m currently learning 3rd year BSC Computers - through UNISA.
 - 💞️ I’m looking for a junior position.
 - 📫 How to reach me you can email me directly on johnopersonal@gmail.com
